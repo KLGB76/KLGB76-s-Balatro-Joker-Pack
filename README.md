@@ -19,3 +19,6 @@ Those jokers are:
 - Chicken
 
 Known Bug(s): All cards randomized by Metronome get debuffed by The Pillar
+
+Changelog(s):
+- v1.0.1: Added getting_sliced check for Forbidden Summoning and Chicken
