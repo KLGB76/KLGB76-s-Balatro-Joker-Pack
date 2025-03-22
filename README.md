@@ -27,3 +27,8 @@ Changelog(s):
 - v1.5.0:
   * Added check to Black Jack so it doesn't transform negative cards again
   * Fixed bug where Clown Car would not fully destroy cards, resulting in the game drawing ghost cards
+- v1.6.9:
+  * Fixed problem where debuffed Jokers would still work
+  * Made it so Anti-Joker, Clown Car, Forbidden Summoning and Restaurant Menu don't take debuffed cards into account when checking for their respective associated jokers/editions
+  * Made it so Chicken won't add Mult for debuffed Eggs
+  * Nerfed Cheval de 3 to only gain X0.25 Mult
