@@ -32,3 +32,4 @@ Changelog(s):
   * Made it so Anti-Joker, Clown Car, Forbidden Summoning and Restaurant Menu don't take debuffed cards into account when checking for their respective associated jokers/editions
   * Made it so Chicken won't add Mult for debuffed Eggs
   * Nerfed Cheval de 3 to only gain X0.25 Mult
+- v1.7.0: Fixed bug where cards created by Infinity Eight would never be drawn or counted as added to deck
