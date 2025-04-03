@@ -21,6 +21,7 @@ Those jokers are:
 Known Bug(s):
 - All cards randomized by Metronome get debuffed by The Pillar
 - The sound of cards being destroyed by Clown Car plays twice
+- Game crashes when using the abilities of both Clown Car (without Driver License) and Medusa's Glare
 
 Changelog(s):
 - v1.0.1: Added getting_sliced check for Forbidden Summoning and Chicken
