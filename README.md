@@ -21,7 +21,6 @@ Those jokers are:
 Known Bug(s):
 - All cards randomized by Metronome get debuffed by The Pillar
 - The sound of cards being destroyed by Clown Car plays twice
-- Game crashes when using the abilities of both Clown Car (without Driver License) and Medusa's Glare
 
 Changelog(s):
 - v1.0.1: Added getting_sliced check for Forbidden Summoning and Chicken
@@ -34,3 +33,4 @@ Changelog(s):
   * Made it so Chicken won't add Mult for debuffed Eggs
   * Nerfed Cheval de 3 to only gain X0.25 Mult
 - v1.7.0: Fixed bug where cards created by Infinity Eight would never be drawn or counted as added to deck
+- v1.7.1: Fixed interaction between Medusa's Glare and Clown Car (without Driver License)
