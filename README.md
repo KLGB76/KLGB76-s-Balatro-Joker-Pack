@@ -1,5 +1,5 @@
 # KLGB76's Balatro Joker Pack
-A Balatro mod adding 14 new Jokers to the game
+A Balatro mod adding 17 new Jokers to the game
 
 Those jokers are:
 
@@ -17,6 +17,9 @@ Those jokers are:
 - Forbidden Summoning
 - Restaurant Menu
 - Chicken
+- The Conqueror (v2.0.0 and above)
+- The Collector (v2.0.0 and above)
+- Eclipse (v2.0.0 and above)
 
 Known Bug(s):
 - All cards randomized by Metronome get debuffed by The Pillar
@@ -34,3 +37,4 @@ Changelog(s):
   * Nerfed Cheval de 3 to only gain X0.25 Mult
 - v1.7.0: Fixed bug where cards created by Infinity Eight would never be drawn or counted as added to deck
 - v1.7.1: Fixed interaction between Medusa's Glare and Clown Car (without Driver License)
+- v2.0.0: Added 3 new Jokers
