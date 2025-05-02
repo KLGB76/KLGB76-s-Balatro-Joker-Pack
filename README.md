@@ -1,5 +1,5 @@
 # KLGB76's Balatro Joker Pack
-A Balatro mod adding 18 new Jokers to the game
+A Balatro mod adding 20 new Jokers to the game
 
 Those jokers are:
 
@@ -21,6 +21,8 @@ Those jokers are:
 - The Collector (v2.0.0 and above)
 - Eclipse (v2.0.0 and above)
 - The Seal (v2.5.0 and above)
+- 4 21 (v3.0.0 and above)
+- Magic Backpack (v3.0.0 and above)
 
 Known Bug(s):
 - All cards randomized by Metronome get debuffed by The Pillar
@@ -40,3 +42,6 @@ Changelog(s):
 - v1.7.1: Fixed interaction between Medusa's Glare and Clown Car (without Driver License)
 - v2.0.0: Added 3 new Jokers
 - v2.5.0: Added a new Joker
+- v3.0.0:
+  * Changed rarity and price of The Seal
+  * Added 2 new Jokers
