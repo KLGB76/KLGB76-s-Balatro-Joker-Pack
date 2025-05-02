@@ -27,6 +27,7 @@ Those jokers are:
 Known Bug(s):
 - All cards randomized by Metronome get debuffed by The Pillar
 - The sound of cards being destroyed by Clown Car plays twice
+- If you have a card stored in Magic Backpack, go back to the main menu and then continue the run, the game crashes when you hover over the Joker
 
 Changelog(s):
 - v1.0.1: Added getting_sliced check for Forbidden Summoning and Chicken
